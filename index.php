@@ -1,4 +1,4 @@
 <?php
-  echo "This is php setup test for 272 course"
+  echo "Php setup test for 272 course by Avinash"
 ?>
 
