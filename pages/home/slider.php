@@ -18,7 +18,7 @@
                             </div>
                             <div class="col-lg-8 col-md-7">
                                 <div class="slider-product-content">
-                                    <h1 class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>Buy</span>  <span>NFTs</span></h1>
+                                    <h1 class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>Buy</span>  <span>NFT Art</span></h1>
                                     <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">Don't Miss the next big thing <br> Collectibles are the future.</p>
                                     <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1.5s">Explore More <i class="lni-chevron-right"></i></a>
                                 </div> <!-- slider product content -->

@@ -31,7 +31,7 @@
                                         <i class="lni-grid-alt"></i>
                                     </div>
                                     <div class="services-content mt-20">
-                                        <h5 class="title mb-10">MPL NFTS</h5>
+                                        <h5 class="title mb-10">MPL NFT Art</h5>
                                     </div>
                                 </div> <!-- single services -->
                                 
@@ -40,7 +40,7 @@
                                         <i class="lni-ruler-pencil"></i>
                                     </div>
                                     <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Sucharo NFTs</h5>
+                                        <h5 class="title mb-10">Sucharo NFT Art</h5>
                                     </div>
                                 </div> <!-- single services -->
                             </div>
@@ -50,7 +50,7 @@
                                         <i class="lni-customer"></i>
                                     </div>
                                     <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Angel Vasoos NFtS</h5>
+                                        <h5 class="title mb-10">Angel Vasoos NFT Art</h5>
                                     </div>
                                 </div> <!-- single services -->
                                 
@@ -59,7 +59,7 @@
                                         <i class="lni-support"></i>
                                     </div>
                                     <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Crusader NFTs</h5>
+                                        <h5 class="title mb-10">Crusader NFT Art</h5>
                                     </div>
                                 </div> <!-- single services -->
                             </div>

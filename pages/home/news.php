@@ -8,7 +8,7 @@
                 <div class="col-lg-6">
                     <div class="section-title text-center pb-25">
                         <h3 class="title mb-15">News</h3>
-                        <p>There are many NFTs to invest.</p>
+                        <p>There are many NFT Art to invest.</p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->

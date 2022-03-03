@@ -5,8 +5,15 @@
   <body>
  <div id="contact" class=" pt-100 pl-115 " style="width: 60rem;">
  <div class="card-body">
-    <h5 class="card-title">Contact Us</h5>
-    <p class="card-text">Feel free to talk to us.</p>
+  
+    <div class="row">
+                <div class="col-lg-6">
+                    <div class="section-title pb-30">
+                        <h5 class="mb-15">Contact Us</h5>
+                        <h3 class="title mb-15">Feel free to talk to us.</h3>
+                    </div> <!-- section title -->
+                </div>
+            </div>
   </div>
  <table class="mx-auto table table-hover">
  <caption></caption>

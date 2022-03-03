@@ -9,7 +9,7 @@
                             <img src="assets/images/discount-product/1.webp" alt="Product">
                         </div> <!-- product image -->
                         <div class="product-content">
-                            <h4 class="content-title mb-15">High-quality NFTs <br> For you </h4>
+                            <h4 class="content-title mb-15">High-quality NFT Art <br> For you </h4>
                             <a href="#">View Collection <i class="lni-chevron-right"></i></a>
                         </div> <!-- product content -->
                     </div> <!-- single discount product -->
@@ -35,6 +35,14 @@
     
     <section id="product" class="product-area pt-100 pb-130">
         <div class="container">
+        <div class="row">
+                <div class="col-lg-6">
+                    <div class="section-title pb-30">
+                        <h5 class="mb-15">Our Product</h5>
+                        <h3 class="title mb-15">NFT Collections</h3>
+                    </div> <!-- section title -->
+                </div>
+            </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4">
                     <div class="collection-menu text-center mt-30">
