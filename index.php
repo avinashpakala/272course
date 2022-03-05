@@ -1,26 +1,64 @@
-<?php
-  echo "This is my firt test php for CMPE 272 class..!"
-?>
-
 <!DOCTYPE html>
 <html>
-<body>
+<head>
+   
+    <!--====== Required meta tags ======-->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!--====== Title ======-->
+   
+    
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
 
-<canvas id="myCanvas" width="400" height="300"
-style="border:1px solid #c3c3c3;">
-Your browser does not support the canvas element.
-</canvas>
+    <!--====== Bootstrap css ======-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    
+    <!--====== Animate css ======-->
+    <link rel="stylesheet" href="assets/css/animate.css">
+    
+    <!--====== Magnific Popup css ======-->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    
+    <!--====== Slick css ======-->
+    <link rel="stylesheet" href="assets/css/slick.css">
+    
+    <!--====== Line Icons css ======-->
+    <link rel="stylesheet" href="assets/css/LineIcons.css">
+    
+    <!--====== Default css ======-->
+    <link rel="stylesheet" href="assets/css/default.css">
+    
+    <!--====== Style css ======-->
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+    <!--====== Responsive css ======-->
+    <link rel="stylesheet" href="assets/css/responsive.css">
+  
+  
+</head>   
 
-<script>
-var canvas = document.getElementById("myCanvas");
-var ctx = canvas.getContext("2d");
-ctx.beginPath();
-ctx.arc(95, 50, 40, 0, 2 * Math.PI);
-ctx.stroke();
+<?php
 
-ctx.fillRect(0,110,80,75);
-ctx.fillRect(80,75,150,155)
-</script>
+ $request = $_SERVER['REQUEST_URI'];
+ 
+ switch ($request) {
+ 
+     case '':
+     case '/':
+         require __DIR__ . '/pages/home/index.php';
+         break;
+ 
+     case '/contact':
+         require __DIR__ . '/pages/contact/contact.php';
+         break;
+ 
+     default:
+         http_response_code(404);
+         require __DIR__ . '/pages/404.php';
+         break;
+ }
 
-</body>
-</html>

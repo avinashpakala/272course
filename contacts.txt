@@ -1,0 +1,5 @@
+Joe,Biden,31465487654,joe@gmail.com,Manager
+Jacob,Jashua,76587698765,jasua@gmail.com,Curator
+Jane,Smith,3218767654,jane@gmail.com,Artist
+David,Bastion,34576890876,david@gmail.com,Artist
+Ben,Ten, 76534678654,ben@gmail.com,Artist
