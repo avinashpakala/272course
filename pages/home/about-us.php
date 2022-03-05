@@ -17,7 +17,7 @@
                     <div class="services-left mt-45">
                         <div class="services">
                             <img src="assets/images/services/services.jpg" alt="">
-                            <a href="#" class="main-btn mt-30">Read More <i class="lni-chevron-right"></i></a>
+                            <a  class="main-btn mt-30">Read More <i class="lni-chevron-right"></i></a>
                         </div> <!-- services btn -->
                     </div> <!-- services left -->
                 </div>

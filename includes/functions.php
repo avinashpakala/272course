@@ -24,21 +24,7 @@ function site_version()
     echo config('version');
 }
 
-/**
- * Website navigation.
- */
 
-/**
- * Displays page title. It takes the data from
- * URL, it replaces the hyphens with spaces and
- * it capitalizes the words.
- */
-
-/**
- * Displays page content. It takes the data from
- * the static pages inside the pages/ directory.
- * When not found, display the 404 error page.
- */
 
 function page_content()
 {
