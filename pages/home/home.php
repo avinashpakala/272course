@@ -30,7 +30,7 @@
                                     <a data-scroll-nav="0" href="#blog">News</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="/contact">Contact</a>
+                                    <a data-scroll-nav="0" href="/login">Contact</a>
                                 </li>
                             </ul> <!-- navbar nav -->
                         </div>

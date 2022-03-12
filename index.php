@@ -52,9 +52,16 @@
          require __DIR__ . '/pages/home/index.php';
          break;
  
-     case '/contact':
+     case '/contact?':
          require __DIR__ . '/pages/contact/contact.php';
          break;
+     
+    case '/login':
+    require __DIR__ . '/pages/login/login.php';
+    break;
+    case '/password':
+        require __DIR__ . '/pages/login/password.php';
+        break;
  
      default:
          http_response_code(404);
