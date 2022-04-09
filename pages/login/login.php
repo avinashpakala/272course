@@ -43,7 +43,7 @@
 		            	<button type="submit" name = "Enter" class="form-control btn btn-primary rounded submit px-3">Sign In</button>
 		            </div>
 		            <div class="form-group d-md-flex">
-		            	
+		           <p class="mt-50">Default username:admin and password: admin</p> 	
 									
 		            </div>
 		          </form>

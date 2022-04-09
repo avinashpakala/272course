@@ -1,0 +1,12 @@
+{
+    "name": "avinash-techie/272course",
+    "authors": [
+        {
+            "name": "Avinash Pakala"
+           
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
