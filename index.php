@@ -42,11 +42,9 @@
 </head>   
 
 <?php
-
  $request = $_SERVER['REQUEST_URI'];
- 
+
  switch ($request) {
- 
      case '':
      case '/':
          require __DIR__ . '/pages/home/index.php';
@@ -55,15 +53,22 @@
      case '/contact?':
          require __DIR__ . '/pages/contact/contact.php';
          break;
-     
+    case '/user':
+        require __DIR__ . '/pages/user/users.php';
+        break;  
+    case '/createuser':
+            require __DIR__ . '/pages/user/createUser.php';
+            break;    
+    case '/postUser':
+            require __DIR__ . '/pages/user/postUser.php';
+            break;
     case '/login':
-    require __DIR__ . '/pages/login/login.php';
-    break;
+            require __DIR__ . '/pages/login/login.php';
+            break;
     case '/password':
-        require __DIR__ . '/pages/login/password.php';
-        break;
- 
-     default:
+            require __DIR__ . '/pages/login/password.php';
+            break;
+    default:
          http_response_code(404);
          require __DIR__ . '/pages/404.php';
          break;
