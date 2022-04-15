@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-title pb-30">
-                    <a class="title mb-15" href="/topfive"><u>Top FIVE.</u> </a>
+                    <a class="title mb-15" href="/topfive"><u>Five most visited products</u> </a>
                       
                     </div> <!-- section title -->
                 </div>
@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-title pb-30">
-                    <a class="title mb-15" href="/latestfive"> <u>LATEST FIVE</u> </a>
+                    <a class="title mb-15" href="/latestfive"> <u>Last five previously visited products</u> </a>
                       
                     </div> <!-- section title -->
                 </div>
