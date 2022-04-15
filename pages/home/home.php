@@ -24,7 +24,7 @@
                                 </li>
                               
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="#product">Products</a>
+                                    <a data-scroll-nav="0" href="/product">Products</a>
                                 </li>
                                 <li class="nav-item">
                                     <a data-scroll-nav="0" href="#blog">News</a>

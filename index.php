@@ -53,6 +53,48 @@
      case '/contact?':
          require __DIR__ . '/pages/contact/contact.php';
          break;
+        case '/product':
+        require __DIR__ . '/pages/product/product.php';
+        break;    
+        case '/product1':
+        require __DIR__ . '/pages/product/product1.php';
+        break; 
+        case '/product2':
+                require __DIR__ . '/pages/product/product2.php';
+                break;
+                case '/product2':
+                        require __DIR__ . '/pages/product/product2.php';
+                        break;
+        case '/product3':
+                require __DIR__ . '/pages/product/product3.php';
+                break;
+        case '/product4':
+        require __DIR__ . '/pages/product/product4.php';
+        break;
+        case '/product5':
+        require __DIR__ . '/pages/product/product5.php';
+        break;
+        case '/product6':
+                require __DIR__ . '/pages/product/product6.php';
+                break;
+        case '/product7':
+                require __DIR__ . '/pages/product/product7.php';
+                break;
+        case '/product8':
+                require __DIR__ . '/pages/product/product8.php';
+                break;
+        case '/product9':
+                require __DIR__ . '/pages/product/product9.php';
+                break;
+        case '/product10':
+                require __DIR__ . '/pages/product/product10.php';
+                break;         
+    case '/latestfive':
+                require __DIR__ . '/pages/product/latestfive.php';
+                break; 
+    case '/topfive':
+                require __DIR__ . '/pages/product/topfive.php';
+                break; 
     case '/user':
         require __DIR__ . '/pages/user/users.php';
         break;  

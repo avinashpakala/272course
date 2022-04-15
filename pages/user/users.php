@@ -15,6 +15,14 @@
                 </div>
             </div>
   </div>
+  <form method ="post">
+  <div class="form-group mb-3"  >
+	<label class="label" for="Search">Search</label>
+			<input type="text" name="search" class="form-control"  placeholder="Search by firstname or lastname or email or homephone or cellphone" >
+		</div>
+<input type="submit" >
+</form>
+                
  <table class="mx-auto table table-hover">
  <caption></caption>
 
@@ -58,8 +66,14 @@
         if ($conn->connect_error) {
           die("Connection failed: " . $conn->connect_error);
         }
-        
-        $sql = "SELECT * FROM users";
+        if(isset($_POST['search']))
+      { $search = $_POST['search'];
+        echo 'Searching users with firstname or lastname or email or homephone or cellphone starting with ' . $search;
+
+        $sql = "SELECT * FROM users WHERE (firstname LIKE '$search%')  or (lastname LIKE '$search%') or (email LIKE '$search%')or (homePhone LIKE '$search%') or (cellPhone LIKE '$search%')";}
+        else {
+          $sql = "SELECT * FROM users ";
+        }
         $result = $conn->query($sql);
         
         if ($result->num_rows > 0) {
