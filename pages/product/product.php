@@ -39,7 +39,7 @@
                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                             <a class="active" id="v-pills-furniture-tab" data-toggle="pill" href="#v-pills-furniture" role="tab" aria-controls="v-pills-furniture" aria-selected="true">Collection1</a>
                             
-                                                  </div> <!-- nav -->
+                         </div> <!-- nav -->
                     </div> <!-- collection menu -->
                 </div>
                  

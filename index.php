@@ -62,9 +62,9 @@
         case '/product2':
                 require __DIR__ . '/pages/product/product2.php';
                 break;
-                case '/product2':
-                        require __DIR__ . '/pages/product/product2.php';
-                        break;
+        case '/product2':
+              require __DIR__ . '/pages/product/product2.php';
+               break;
         case '/product3':
                 require __DIR__ . '/pages/product/product3.php';
                 break;
@@ -98,6 +98,9 @@
     case '/user':
         require __DIR__ . '/pages/user/users.php';
         break;  
+    case '/allusers':
+        require __DIR__ . '/pages/user/allusers.php';
+        break;      
     case '/createuser':
             require __DIR__ . '/pages/user/createUser.php';
             break;    
