@@ -38,6 +38,9 @@
                                 <li class="nav-item">
                                     <a data-scroll-nav="0" href="/user">View user</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a data-scroll-nav="0" href="/allusers">Combined users list</a>
+                                </li>
                             </ul> <!-- navbar nav -->
                         </div>
                     </nav> <!-- navbar -->
