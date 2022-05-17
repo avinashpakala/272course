@@ -65,13 +65,13 @@
                                     <div class="col-md-4">
                                         <div class="single-product-items">
                                             <div class="product-item-image">
-                                                <a href="/product1" ><img src="assets/images/product/10.png" alt="Product"></a>
+                                                <a href="/product1" ><img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/5NOWWNNEBRER7BXFZKCYRCA7NA.jpg" alt="Product"></a>
                                                 <div class="product-discount-tag">
                                                     <p>-60%</p>
                                                 </div>
                                             </div>
                                             <div   class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a >Product1</a></h5>
+                                                <h5 class="product-title"><a >Player</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>
