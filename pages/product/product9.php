@@ -71,7 +71,7 @@
                                                 </div>
                                             </div>
                                             <div   class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a >product9</a></h5>
+                                                <h5 class="product-title"><a >Message of Education</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>
@@ -87,8 +87,8 @@
                                     <!-- single product items -->
                                     <div>
                                     <span>
-                                    Superior Quality and very high in demand
-                                    Buy this product now
+                                    Material similarities between the different projects they are linked by recurring formal concerns and through the subject matter.
+
                                     </span>
                                     </div>
                                     </div>

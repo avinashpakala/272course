@@ -71,7 +71,7 @@
                                                 </div>
                                             </div>
                                             <div   class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a >product5</a></h5>
+                                                <h5 class="product-title"><a >Obligation</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>
@@ -87,8 +87,7 @@
                                     <!-- single product items -->
                                     <div>
                                     <span>
-                                    Superior Quality and very high in demand
-                                    Buy this product now
+                                    Arrangements are schematic, inviting the viewer to move into a space of speculation.
                                     </span>
                                     </div>
                                     </div>

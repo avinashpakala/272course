@@ -71,7 +71,7 @@
                                                 </div>
                                             </div>
                                             <div   class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a >product10</a></h5>
+                                                <h5 class="product-title"><a >Grace</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>
@@ -87,8 +87,7 @@
                                     <!-- single product items -->
                                     <div>
                                     <span>
-                                    Superior Quality and very high in demand
-                                    Buy this product now
+                                    Grand illusions that art will create a revolution in the traditional sense, but have witnessed the powerful changes it can make in an individual.
                                     </span>
                                     </div>
                                     </div>

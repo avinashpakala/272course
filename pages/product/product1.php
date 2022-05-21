@@ -71,7 +71,7 @@
                                                 </div>
                                             </div>
                                             <div   class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a >Player</a></h5>
+                                                <h5 class="product-title"><a >Demands of Eternity</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>
@@ -87,8 +87,7 @@
                                     <!-- single product items -->
                                     <div>
                                     <span>
-                                    Superior Quality and very high in demand
-                                    Buy this product now
+                                    Art remains as a strong contender of how we share our thoughts and ideas. Throughout history, art has survived the tidal wave of information, and remains an unpredictable source of imagination. It has the possibilities of changing one�s thoughts, opening new ideas, and borrowing through received ideas so common to our educational system.
                                     </span>
                                     </div>
                                     </div>

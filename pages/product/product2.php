@@ -71,7 +71,7 @@
                                                 </div>
                                             </div>
                                             <div   class="product-item-content text-center mt-30">
-                                                <h5 class="product-title"><a >product2</a></h5>
+                                                <h5 class="product-title"><a >Spring of Culture</a></h5>
                                                 <ul class="rating">
                                                     <li><i class="lni-star-filled"></i></li>
                                                     <li><i class="lni-star-filled"></i></li>
@@ -87,8 +87,7 @@
                                     <!-- single product items -->
                                     <div>
                                     <span>
-                                    Superior Quality and very high in demand
-                                    Buy this product now
+                                    The work takes on various forms intended to draw in the viewer as co-author and witness, create new and unpredictable cycles of thoughts and associations, providing an experimental chance to challenge one�s perceptions, perspectives and assumptions.
                                     </span>
                                     </div>
                                     </div>
